@@ -11,3 +11,16 @@ body {
     background-color: white;
     padding: 50px;
 }
+
+.photo {
+    text-align: center;
+}
+
+.photo img {
+    width: 320px;
+}
+
+.info {
+    width: 620px;
+    margin: 40px auto 0 auto;
+}
