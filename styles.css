@@ -1,26 +1,37 @@
 body {
-    margin: 0;
-    background-color: #ececf3;
-    font-family: Arial, sans-serif;
-    color: #222222;
+  margin: 0;
+  background-color: #ececf3;
+  font-family: Arial, sans-serif;
+  color: #222222;
 }
 
 .page {
-    width: 760px;
-    margin: 40px auto;
-    background-color: white;
-    padding: 50px;
+  width: 760px;
+  margin: 40px auto;
+  background-color: white;
+  padding: 50px;
 }
 
 .photo {
-    text-align: center;
+  text-align: center;
 }
 
 .photo img {
-    width: 320px;
+  width: 320px;
 }
 
 .info {
-    width: 620px;
-    margin: 40px auto 0 auto;
+  width: 620px;
+  margin: 40px auto 0 auto;
+}
+
+.button {
+  text-align: center;
+  margin-top: 35px;
+}
+.button a {
+  background-color: #5b67b3;
+  color: white;
+  padding: 12px 25px;
+  text-decoration: none;
 }
